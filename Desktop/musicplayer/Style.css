@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+}
+
+html{
+    height: 100%;
+}
+
+body
+{
+    background-image: linear-gradient( #0046ae, #9198e5);
+}
